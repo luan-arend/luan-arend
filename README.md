@@ -1,32 +1,12 @@
-# Luan - Software Developer
+## 👩‍💻Stack
+Progress 4GL | Java | Spring Boot | Javascript | API REST
 
-## 👋 Olá, mundo!
+## 📫Contact
+<a href="https://www.linkedin.com/in/luan-arend" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:luan-arend@outlook.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
 
-Sou um desenvolvedor backend apaixonado por criar soluções eficientes e resolver desafios complexos. **Atualmente estou muito focado em Java e Spring Boot**, além de ter experiência com outras tecnologias.
-
-## 💻 Tecnologias e Ferramentas
-
-- **Java** e **Spring Boot** - Meu foco principal atual
-- **ABL Progress** - Experiência sólida
-- **JavaScript** - Conhecimento complementar
-- Outras linguagens e frameworks
-
+## 📊Stats
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-arend&theme=monokai&show_icons=true&hide_border=true&layout=compact)
-
-## 🚀 Sobre mim
-
-Desenvolvo aplicações tanto Web quanto desktop, utilizando principalmente tecnologias como **Java / Spring Boot** e **ABL Progress**, além de conhecimento em demais linguagens.
-
-Minha paixão em resolver desafios e criar eficientes soluções me motiva a explorar novas formas de me aprimorar e otimizar todo o processo de desenvolvimento.
-
-## 🔗 Conecte-se comigo
-
-Estou aberto a novas conexões e oportunidades que me permitam contribuir e crescer nesse incrível mundo da tecnologia.
-
-- **E-mail:** [luan.arend@outlook.com](mailto:luan.arend@outlook.com)
-- **LinkedIn:** [linkedin.com/in/luan-arend](https://www.linkedin.com/in/luan-arend)
-
-## 📊 Estatísticas do GitHub
 
 ![luan-arend's Score](https://github-readme-streak-stats.herokuapp.com/?user=luan-arend&theme=monokai&hide_border=true)
 
