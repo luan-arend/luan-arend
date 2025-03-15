@@ -1,4 +1,4 @@
-# Luan - Desenvolvedor Backend
+# Luan - Software Developer
 
 ## 👋 Olá, mundo!
 
@@ -10,6 +10,8 @@ Sou um desenvolvedor backend apaixonado por criar soluções eficientes e resolv
 - **ABL Progress** - Experiência sólida
 - **JavaScript** - Conhecimento complementar
 - Outras linguagens e frameworks
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-arend&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚀 Sobre mim
 
@@ -26,8 +28,6 @@ Estou aberto a novas conexões e oportunidades que me permitam contribuir e cres
 
 ## 📊 Estatísticas do GitHub
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-arend)](https://github.com/luan-arend)
+![luan-arend's Score](https://github-readme-streak-stats.herokuapp.com/?user=luan-arend&theme=monokai&hide_border=true)
 
----
 
-⭐️ De [Luan](https://github.com/luan-arend)
