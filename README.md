@@ -8,6 +8,3 @@ Progress 4GL | Java | Spring Boot | Javascript | API REST
 ## 📊Stats
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-arend&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
-![luan-arend's Score](https://github-readme-streak-stats.herokuapp.com/?user=luan-arend&theme=monokai&hide_border=true)
-
-
